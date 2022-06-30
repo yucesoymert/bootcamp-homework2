@@ -1,0 +1,21 @@
+.card {
+    padding: 8px 16px;
+
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    
+    border: 2px solid #E1B699;
+    border-radius: 6px;
+    font-family: 'Raleway', sans-serif;
+    gap: 4px;
+
+    &__title {
+        margin-top: 4px;
+
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        color: black;
+    }
+}

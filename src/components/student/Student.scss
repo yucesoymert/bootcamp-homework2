@@ -1,0 +1,11 @@
+.student-card {
+    padding: 8px 16px;
+    background-color: #E7E3DD;
+    border-radius: 6px;
+    font-family: 'Raleway', sans-serif;
+
+    &__name {
+        color: black;
+        font-weight: 400;
+    }
+}

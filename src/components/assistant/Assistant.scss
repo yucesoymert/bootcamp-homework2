@@ -1,0 +1,11 @@
+.assistant-card {
+    padding: 8px 16px;
+    background-color: #E5CBB5 ;
+    border-radius: 6px;
+    font-family: 'Raleway', sans-serif;
+    
+    &__name {
+        color: black;
+        font-weight: 700;
+    }
+}

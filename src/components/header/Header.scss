@@ -1,0 +1,19 @@
+.header {
+    margin: 15px;
+    padding: 8px 16px;
+
+    display: block;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+
+    font-family: 'Raleway', sans-serif;
+    background: linear-gradient(90deg, rgba(38,23,36,1) 0%, rgba(109,90,90,0.9416141456582633) 83%, rgba(229,203,181,1) 100%);
+    border-radius: 6px;
+
+    &__title {
+        color: white;
+        font-size: 18px;
+        font-weight: 400;
+    }
+}
